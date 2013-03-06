@@ -1,0 +1,31 @@
+                       ============================================
+                       URL Parsing and Normalize Library
+                       ============================================
+1. version information
+/**
+* Copyright (c) 2011-2012
+* @version 1.0.0
+* @author Zhai Zhouwei
+* @email nuoline@gmail.com
+* @release time 2012-6
+* @description 
+*/
+
+2. url parse and normalize
+the only include file is include/Url.h,the oneurl class will parse and normalize your url.
+example:
+const string url = "htTP://panGUSO.CoM/news////china/q=hadoop";
+oneurl curl;
+string str_test = curl.CNormalize(url);
+cout<<url<<" -> "<<str_test<<endl;
+cout<<url<<"path->"<<str_p<<endl;
+cout<<"scheme->"<<curl.GetScheme()<<endl;
+cout<<"user->"<<curl.GetUsername()<<endl;
+cout<<"pw->"<<curl.GetPassword()<<endl;
+cout<<"host->"<<curl.GetHost()<<endl;
+cout<<"domain->"<<curl.GetDomain()<<endl;
+
+3.attention
+oneurl requires UTF-8 encoding,and the output encoding will be UTF-8 default.
+also supporting gbk
+

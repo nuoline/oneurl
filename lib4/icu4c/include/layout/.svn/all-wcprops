@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout
+END
+LEGlyphStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/LEGlyphStorage.h
+END
+LEGlyphFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/LEGlyphFilter.h
+END
+LEFontInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/LEFontInstance.h
+END
+playout.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/playout.h
+END
+LESwaps.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/LESwaps.h
+END
+loengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/loengine.h
+END
+LayoutEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/LayoutEngine.h
+END
+ParagraphLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/ParagraphLayout.h
+END
+plruns.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/plruns.h
+END
+LETypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/LETypes.h
+END
+RunArrays.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/RunArrays.h
+END
+LEInsertionList.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/LEInsertionList.h
+END
+LELanguages.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/LELanguages.h
+END
+LEScripts.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/layout/LEScripts.h
+END

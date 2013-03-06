@@ -1,0 +1,977 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode
+END
+uscript.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uscript.h
+END
+uconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uconfig.h
+END
+unifunct.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/unifunct.h
+END
+ucat.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucat.h
+END
+putil.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/putil.h
+END
+coleitr.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/coleitr.h
+END
+uldnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uldnames.h
+END
+unifilt.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/unifilt.h
+END
+docmain.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/docmain.h
+END
+idna.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/idna.h
+END
+urep.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/urep.h
+END
+utrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/utrans.h
+END
+alphaindex.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/alphaindex.h
+END
+utmscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/utmscale.h
+END
+unirepl.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/unirepl.h
+END
+bytestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/bytestream.h
+END
+bytestriebuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/bytestriebuilder.h
+END
+uobslete.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uobslete.h
+END
+datefmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/datefmt.h
+END
+ucoleitr.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucoleitr.h
+END
+dtitvinf.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/dtitvinf.h
+END
+icudataver.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/icudataver.h
+END
+measfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/measfmt.h
+END
+urename.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/urename.h
+END
+utf.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/utf.h
+END
+sortkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/sortkey.h
+END
+stringtriebuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/stringtriebuilder.h
+END
+utf16.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/utf16.h
+END
+ustdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ustdio.h
+END
+plurrule.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/plurrule.h
+END
+uspoof.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uspoof.h
+END
+stsearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/stsearch.h
+END
+stringpiece.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/stringpiece.h
+END
+rbbi.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/rbbi.h
+END
+ucnv_cb.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucnv_cb.h
+END
+locdspnm.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/locdspnm.h
+END
+bms.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/bms.h
+END
+ucnv_err.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucnv_err.h
+END
+colldata.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/colldata.h
+END
+ptypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ptypes.h
+END
+udraft.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/udraft.h
+END
+ushape.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ushape.h
+END
+utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/utf8.h
+END
+ucsdet.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucsdet.h
+END
+uiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uiter.h
+END
+localpointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/localpointer.h
+END
+uintrnal.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uintrnal.h
+END
+parsepos.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/parsepos.h
+END
+uregex.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uregex.h
+END
+uidna.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uidna.h
+END
+ucol.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucol.h
+END
+brkiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/brkiter.h
+END
+uclean.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uclean.h
+END
+icuplug.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/icuplug.h
+END
+ucharstrie.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucharstrie.h
+END
+utext.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/utext.h
+END
+ustream.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ustream.h
+END
+rbtz.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/rbtz.h
+END
+unorm2.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/unorm2.h
+END
+gregocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/gregocal.h
+END
+utrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/utrace.h
+END
+errorcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/errorcode.h
+END
+unum.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/unum.h
+END
+umachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/umachine.h
+END
+usearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/usearch.h
+END
+tmutamt.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/tmutamt.h
+END
+appendable.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/appendable.h
+END
+ulocdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ulocdata.h
+END
+ucasemap.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucasemap.h
+END
+upluralrules.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/upluralrules.h
+END
+dbbi.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/dbbi.h
+END
+chariter.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/chariter.h
+END
+normlzr.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/normlzr.h
+END
+regex.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/regex.h
+END
+ucnv.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucnv.h
+END
+ppalmos.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ppalmos.h
+END
+usprep.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/usprep.h
+END
+udateintervalformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/udateintervalformat.h
+END
+tzrule.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/tzrule.h
+END
+vtzone.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/vtzone.h
+END
+rep.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/rep.h
+END
+decimfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/decimfmt.h
+END
+format.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/format.h
+END
+uenum.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uenum.h
+END
+udat.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/udat.h
+END
+smpdtfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/smpdtfmt.h
+END
+basictz.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/basictz.h
+END
+unorm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/unorm.h
+END
+uloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uloc.h
+END
+simpletz.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/simpletz.h
+END
+bytestrie.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/bytestrie.h
+END
+umsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/umsg.h
+END
+ucnvsel.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucnvsel.h
+END
+ustringtrie.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ustringtrie.h
+END
+std_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/std_string.h
+END
+uset.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uset.h
+END
+messagepattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/messagepattern.h
+END
+schriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/schriter.h
+END
+parseerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/parseerr.h
+END
+udatpg.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/udatpg.h
+END
+caniter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/caniter.h
+END
+currpinf.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/currpinf.h
+END
+utypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/utypes.h
+END
+timezone.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/timezone.h
+END
+selfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/selfmt.h
+END
+dtintrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/dtintrv.h
+END
+locid.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/locid.h
+END
+ubidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ubidi.h
+END
+choicfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/choicfmt.h
+END
+utf_old.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/utf_old.h
+END
+strenum.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/strenum.h
+END
+ubrk.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ubrk.h
+END
+fieldpos.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/fieldpos.h
+END
+unimatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/unimatch.h
+END
+umisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/umisc.h
+END
+tmunit.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/tmunit.h
+END
+plurfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/plurfmt.h
+END
+uobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uobject.h
+END
+ustring.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ustring.h
+END
+msgfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/msgfmt.h
+END
+numsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/numsys.h
+END
+dtitvfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/dtitvfmt.h
+END
+measure.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/measure.h
+END
+uvernum.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uvernum.h
+END
+normalizer2.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/normalizer2.h
+END
+usetiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/usetiter.h
+END
+uniset.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uniset.h
+END
+calendar.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/calendar.h
+END
+usystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/usystem.h
+END
+uversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uversion.h
+END
+curramt.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/curramt.h
+END
+ures.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ures.h
+END
+symtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/symtable.h
+END
+dtptngen.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/dtptngen.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/platform.h
+END
+uchriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uchriter.h
+END
+dcfmtsym.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/dcfmtsym.h
+END
+coll.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/coll.h
+END
+tblcoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/tblcoll.h
+END
+fpositer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/fpositer.h
+END
+udata.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/udata.h
+END
+dtrule.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/dtrule.h
+END
+ucurr.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucurr.h
+END
+translit.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/translit.h
+END
+tmutfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/tmutfmt.h
+END
+uchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/uchar.h
+END
+resbund.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/resbund.h
+END
+utf32.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/utf32.h
+END
+tztrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/tztrans.h
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/search.h
+END
+numfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/numfmt.h
+END
+dtfmtsym.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/dtfmtsym.h
+END
+udeprctd.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/udeprctd.h
+END
+fmtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/fmtable.h
+END
+currunit.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/currunit.h
+END
+ucharstriebuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucharstriebuilder.h
+END
+pwin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/pwin32.h
+END
+unistr.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/unistr.h
+END
+ucal.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/ucal.h
+END
+bmsearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/bmsearch.h
+END
+measunit.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/measunit.h
+END
+rbnf.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lab/!svn/ver/800/libsource4/icu4c/tags/icu4c_4.0.0.0/output/include/unicode/rbnf.h
+END

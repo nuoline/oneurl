@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/lab/!svn/ver/3951/libsource4/pgurl/trunk/output/include
+END
+UrlNormUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/lab/!svn/ver/3811/libsource4/pgurl/trunk/output/include/UrlNormUtil.h
+END
+UrlParse.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lab/!svn/ver/3951/libsource4/pgurl/trunk/output/include/UrlParse.h
+END
+string16.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/lab/!svn/ver/793/libsource4/pgurl/trunk/output/include/string16.h
+END
+UrlNorm.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/lab/!svn/ver/3811/libsource4/pgurl/trunk/output/include/UrlNorm.h
+END
+UrlNormIcu.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/lab/!svn/ver/1164/libsource4/pgurl/trunk/output/include/UrlNormIcu.h
+END
+UrlUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/lab/!svn/ver/3811/libsource4/pgurl/trunk/output/include/UrlUtil.h
+END
+Url.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lab/!svn/ver/3811/libsource4/pgurl/trunk/output/include/Url.h
+END
+basictypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lab/!svn/ver/793/libsource4/pgurl/trunk/output/include/basictypes.h
+END
+UrlNormIp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lab/!svn/ver/3811/libsource4/pgurl/trunk/output/include/UrlNormIp.h
+END
