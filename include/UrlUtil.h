@@ -1,8 +1,8 @@
 /*
-* Copyright (c) 2011-2012 Pangoso
+* Copyright (c) 2011-2012
 * @version 1.0.0
 * @author Zhai Zhouwei
-* @email zhaizhouwei@panguso.com
+* @email nuoline@gmail.com
 * @date 2012-5-24
 * @description URL归一化函数封装头文件i
 * @references Chrome/gurl

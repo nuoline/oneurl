@@ -1,7 +1,7 @@
 /*
 * @version 1.0.0
 * @author Zhai Zhouwei
-* @email zhaizhouwei@panguso.com
+* @email nuoline@gmail.com
 * @date 2012-5-20
 * @description 
 * @references Chrome/gurl

@@ -1,6 +1,6 @@
 /**
 * @version 1.0.0
-* @email zhaizhouwei@panguso.com
+* @email zhaizhouwei@nuoline.com
 * @date 2012-5-20
 * @description ICU integration functions.
 * @references Chrome/gurl

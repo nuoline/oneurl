@@ -2,7 +2,7 @@
 * Copyright (c) 2011-2012 Pangoso
 * @version 1.0.0
 * @author Zhai Zhouwei
-* @email zhaizhouwei@panguso.com
+* @email nuoline@gmail.com
 * @date 2012-5-20
 * @description URL的IP归一化头文件
 * @references Chrome/gurl
